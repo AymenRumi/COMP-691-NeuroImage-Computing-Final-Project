@@ -1,3 +1,3 @@
 # COMP-691-NeuroImage-Computing-Final-Project
 
-**Algorithm Re-Implementation.ipynb** contains image denoising results using python module 
+**Algorithm Re-Implementation.ipynb** contains image denoising results using python module **MRI_Denoising**
